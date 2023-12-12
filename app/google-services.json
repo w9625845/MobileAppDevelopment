@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "706675834835",
+    "firebase_url": "https://medplus-22189-default-rtdb.firebaseio.com",
+    "project_id": "medplus-22189",
+    "storage_bucket": "medplus-22189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706675834835:android:362de9c9f742cfa43a7926",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.W9625845"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVsYt6ASy8gSNaCqOm-5OfJAlLr2VGKPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
